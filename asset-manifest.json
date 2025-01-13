@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/coogchallengers/static/css/main.7f3d7218.css",
-    "main.js": "/coogchallengers/static/js/main.5a0b1898.js",
-    "static/js/488.23108afb.chunk.js": "/coogchallengers/static/js/488.23108afb.chunk.js",
-    "index.html": "/coogchallengers/index.html",
-    "main.7f3d7218.css.map": "/coogchallengers/static/css/main.7f3d7218.css.map",
-    "main.5a0b1898.js.map": "/coogchallengers/static/js/main.5a0b1898.js.map",
-    "488.23108afb.chunk.js.map": "/coogchallengers/static/js/488.23108afb.chunk.js.map"
+    "main.css": "/static/css/main.45b972c3.css",
+    "main.js": "/static/js/main.cacffdf5.js",
+    "static/js/488.23108afb.chunk.js": "/static/js/488.23108afb.chunk.js",
+    "index.html": "/index.html",
+    "main.45b972c3.css.map": "/static/css/main.45b972c3.css.map",
+    "main.cacffdf5.js.map": "/static/js/main.cacffdf5.js.map",
+    "488.23108afb.chunk.js.map": "/static/js/488.23108afb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7f3d7218.css",
-    "static/js/main.5a0b1898.js"
+    "static/css/main.45b972c3.css",
+    "static/js/main.cacffdf5.js"
   ]
 }
